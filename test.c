@@ -4,4 +4,5 @@ void main()
 	int b;
 	int b;
 	int c;
+	int e;
 }
