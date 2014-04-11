@@ -5,4 +5,5 @@ void main()
 	int b;
 	int c;
 	int e;
+	int f;
 }
