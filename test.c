@@ -10,4 +10,5 @@ void main()
 
 void func0()
 {
+	int a0;
 }
