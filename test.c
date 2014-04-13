@@ -7,3 +7,7 @@ void main()
 	int e;
 	int f;
 }
+
+void func1()
+{
+}
