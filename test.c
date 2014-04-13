@@ -8,6 +8,11 @@ void main()
 	int f;
 }
 
+void func0()
+{
+	int a0;
+}
+
 void func1()
 {
 }
