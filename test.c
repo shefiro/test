@@ -15,4 +15,5 @@ void func0()
 
 void func1()
 {
+	int a1;
 }
